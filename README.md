@@ -1,3 +1,10 @@
+First Application
+=================
+
+This is my first Application to test some features in Android Studio,
+I copied the ActionBarCompat-Basic Sample from Android.
+
+
 
 Android ActionBarCompat-Basic Sample
 ===================================

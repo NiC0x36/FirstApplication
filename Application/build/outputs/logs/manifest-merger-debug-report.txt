@@ -27,7 +27,7 @@ MERGED from com.android.support:support-v4:23.0.0:22:5
 		ADDED from AndroidManifest.xml:25:9
 	android:theme
 		ADDED from AndroidManifest.xml:27:9
-activity#com.example.android.actionbarcompat.basic.MainActivity
+activity#com.example.android.actionbarcompat.FirstApplication.MainActivity
 ADDED from AndroidManifest.xml:29:9
 	android:name
 		ADDED from AndroidManifest.xml:29:19
@@ -38,13 +38,13 @@ ADDED from AndroidManifest.xml:32:17
 	android:name
 		ADDED from AndroidManifest.xml:32:25
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:34:17
+ADDED from AndroidManifest.xml:33:17
 	android:name
-		ADDED from AndroidManifest.xml:34:27
-activity#com.example.android.actionbarcompat.basic.SecondActivity
-ADDED from AndroidManifest.xml:38:9
+		ADDED from AndroidManifest.xml:33:27
+activity#com.example.android.actionbarcompat.FirstApplication.SecondActivity
+ADDED from AndroidManifest.xml:37:9
 	android:name
-		ADDED from AndroidManifest.xml:38:19
+		ADDED from AndroidManifest.xml:37:19
 uses-sdk
 INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
 MERGED from com.android.support:support-v4:23.0.0:20:5

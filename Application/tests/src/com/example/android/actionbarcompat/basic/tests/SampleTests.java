@@ -15,7 +15,7 @@
 */
 package com.example.android.actionbarcompat.basic.tests;
 
-import com.example.android.actionbarcompat.basic.*;
+import com.example.android.actionbarcompat.FirstApplication.MainActivity;
 
 import android.test.ActivityInstrumentationTestCase2;
 
