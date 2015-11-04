@@ -42,103 +42,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5343e6f5-1eba-444c-ae17-5b1dbb047d00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/src/main/java/com/example/android/actionbarcompat/FirstApplication/PlanetFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/src/main/res/values/array.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/src/main/res/layout/drawer_list_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/src/main/res/layout/left_drawer.xml" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\.idea\libraries\appcompat_v7_21_0_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\.idea\libraries\cardview_v7_23_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\.idea\libraries\gridlayout_v7_23_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\.idea\libraries\support_annotations_23_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\.idea\libraries\support_v4_23_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\FirstApplication.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\appcompat\R.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\cardview\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\cardview\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\cardview\R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\cardview\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\cardview\R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\cardview\R.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\gridlayout\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\gridlayout\R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\gridlayout\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\gridlayout\R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\android\support\v7\gridlayout\R.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\R.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\SecondActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\classes\debug\com\example\android\actionbarcompat\basic\SecondActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\dex\debug\classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\manifests\tmp\manifestMerger2941335423819740064.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\manifests\tmp\manifestMerger7929191638793784013.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\classes-29fa727e657b0a24462d2d71ec7dc770d0ca6e29.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\classes-96e45c71349b807317548c80f48f2a7b7b90d728.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\classes-cfc5e4c2d44521aec5e66fbd095d74f3fdb29f96.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\classes-de04df35f257ad91896de83d9bcca31cad3511e0.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-92ab44228439514b8e709b223392c30603c3aa2d.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-594f707f60c897d6f6806ae4962d3a174afc4819.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\res\debug\layout\activity_second.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\res\debug\layout\sample_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\outputs\apk\Application-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\outputs\apk\Application-debug.apk" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\java\com\example\android\actionbarcompat\basic\MainActivity.java" afterPath="$PROJECT_DIR$/Application/src/main/java/com/example/android/actionbarcompat/FirstApplication/MainActivity.java" />
-      <change type="MOVED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\java\com\example\android\actionbarcompat\basic\SecondActivity.java" afterPath="$PROJECT_DIR$/Application/src/main/java/com/example/android/actionbarcompat/FirstApplication/SecondActivity.java" />
-      <change type="MOVED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\res\layout\activity_second.xml" afterPath="$PROJECT_DIR$/Application/src/main/res/layout/second_activity.xml" />
-      <change type="MOVED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\res\layout\sample_main.xml" afterPath="$PROJECT_DIR$/Application/src/main/res/layout/main_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/Application/build/intermediates/resources/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/Application/build/intermediates/resources/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Application/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/generated/source/r/debug/android/support/v7/cardview/R.java" afterPath="$PROJECT_DIR$/Application/build/generated/source/r/debug/android/support/v7/cardview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java" afterPath="$PROJECT_DIR$/Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/generated/source/r/debug/com/example/android/actionbarcompat/basic/R.java" afterPath="$PROJECT_DIR$/Application/build/generated/source/r/debug/com/example/android/actionbarcompat/basic/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/Application/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/tests/src/com/example/android/actionbarcompat/basic/tests/SampleTests.java" afterPath="$PROJECT_DIR$/Application/tests/src/com/example/android/actionbarcompat/basic/tests/SampleTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/Application/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/res/debug/menu/menu_second.xml" afterPath="$PROJECT_DIR$/Application/build/intermediates/res/debug/menu/menu_second.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/src/main/res/menu/menu_second.xml" afterPath="$PROJECT_DIR$/Application/src/main/res/menu/menu_second.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/Application/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/Application/build/intermediates/res/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\Users\Nicolas\AndroidStudioProjects\ActionBarCompat-Basic\Application\tests\src\com\example\android\actionbarcompat\basic\tests\SampleTests.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ActionBarCompat-Basic.iws" />
@@ -176,35 +80,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/actionbarcompat/FirstApplication/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-              <folding />
+            <state vertical-scroll-proportion="0.5588235">
+              <caret line="39" column="91" selection-start-line="39" selection-start-column="91" selection-end-line="39" selection-end-column="91" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.119929455">
+            <state vertical-scroll-proportion="-2.125">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/tests/src/com/example/android/actionbarcompat/basic/tests/SampleTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-              <folding>
-                <element signature="e#976#977#0" expanded="true" />
-                <element signature="e#1017#1018#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -1641,7 +1534,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="-3" />
     <option name="width" value="1301" />
     <option name="height" value="1088" />
   </component>
@@ -1675,7 +1568,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2058,28 +1951,6 @@
               <option name="myItemId" value="Application" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ActionBarCompat-Basic" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2093,16 +1964,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ActionBarCompat-Basic" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2374,24 +2235,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1301" height="1088" extended-state="0" />
-    <editor active="true" />
+    <frame x="-3" y="0" width="1301" height="1088" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930845" sideWeight="0.4971614" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32527474" sideWeight="0.4452555" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30625686" sideWeight="0.1297648" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32930845" sideWeight="0.5028386" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32927817" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32930845" sideWeight="0.4971614" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32821077" sideWeight="0.4939173" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994652" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30625686" sideWeight="0.8702352" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30625686" sideWeight="0.8702352" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26682886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5555556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27202642" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2450,7 +2311,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="49" selection-end-column="11" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2515,7 +2378,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="49" selection-end-column="11" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2580,7 +2445,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="49" selection-end-column="11" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2645,7 +2512,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2702,7 +2571,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2735,7 +2606,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2923,30 +2796,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/tests/src/com/example/android/actionbarcompat/basic/tests/SampleTests.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding>
-            <element signature="e#976#977#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-2.125">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/actionbarcompat/FirstApplication/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.119929455">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.5588235">
+          <caret line="39" column="91" selection-start-line="39" selection-start-column="91" selection-end-line="39" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
